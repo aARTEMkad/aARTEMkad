@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aARTEMkad&layout=compact)](https://github.com/aARTEMkad/github-readme-stats)'
 
 
-https://www.codewars.com/users/Artem%20Karpuk/badges/large
+[(https://www.codewars.com/users/Artem%20Karpuk/badges/large)]
