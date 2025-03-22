@@ -1,20 +1,16 @@
-### Hi there 👋
+# Hi! I'm Artem Karpuk, a developer with experience in web technologies and server management.
 
-<!--
-**aARTEMkad/aARTEMkad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My skills:
+- **Node.js** and **Express.js**: creating server-side applications and APIs.
+- **React.js**: developing user interfaces for web applications.
+- **Docker**: configuring and managing containers for server deployments.
+- **Kubernetes**: planning to learn and use it for service scaling.
+- **C++**: basic knowledge for low-level programming.
+- **Cisco CLP**: configuring and managing networks.
+- Working with **DHCP**, **DNS**, and other networking services.
+- **INF.02**: administration and operation of computer systems, peripheral devices, and local networks.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-\-==
+I'm currently working on improving my **JavaScript** knowledge for backend development and preparing for new projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aARTEMkad&layout=compact)](https://github.com/aARTEMkad/github-readme-stats)'
 
