@@ -13,6 +13,3 @@
 I'm currently working on improving my **JavaScript** knowledge for backend development and preparing for new projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aARTEMkad&layout=compact)](https://github.com/aARTEMkad/github-readme-stats)'
-
-
-[(https://www.codewars.com/users/Artem%20Karpuk/badges/large)]
